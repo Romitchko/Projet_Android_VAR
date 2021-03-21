@@ -1,4 +1,4 @@
 Groupe :
-Alexandre Auriat
-Romain Baudet
+Alexandre Auriat / 
+Romain Baudet / 
 Vianney Zawada
